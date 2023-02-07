@@ -25,9 +25,12 @@ PT-BR: O desafio foi proposto no curso Explorer da Rocketseat. A ideia é corrig
 
 ![](../images/error-page.png)
 
+- **[Online project](../index.html)** 
+
 </h3>
 
-                  # Feito com 🤍 by BM 
-  ###### (Rocketseat fev-2023)
+                   Feito com 🤍 by BM 
+                   
+  ##### (Rocketseat fev-2023)
 
 
